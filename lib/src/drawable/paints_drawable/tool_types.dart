@@ -1,0 +1,1 @@
+enum PaintToolType { brush, eraser }
