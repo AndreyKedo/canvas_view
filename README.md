@@ -7,12 +7,12 @@ Canvas view for paint
 * Brush, Move/Scale, Erase
 * Take your beautiful image
 
-
+<!-- 
 ## Usage
 
 ```dart
-const like = 'sample';
+
 ```
 
 ## Additional information
-
+ -->
